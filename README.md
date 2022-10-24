@@ -18,9 +18,11 @@
 - 📫 How to reach me **vinayakbhushan15@gmail.com**
 
 - ⚡ Fun fact **I think I an funny.**
+<div align="center">
 
 <img src="https://media.tenor.com/LI7EUWQX9zQAAAAd/robot-egld.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Scifi Technology GIFs | Tenor" data-noaft="1" style="width: 450px; height: 253.125px; margin: 45.6375px 0px;">
 
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
