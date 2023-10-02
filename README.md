@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinayak Bhushan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<div style <p style="text-align: center;">
 <img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="GitHub - rudrabarad/Gifs: Collection of some Coding / Programming Gifs that  can be used in Special Repository" data-noaft="1" style="width: 400px; height: 251.765px; margin: 46.3176px 0px;">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=F7F7F7&background=000000F7&center=true&vCenter=true&width=435&lines=Hello!!;Vinayak+Bhushan+this+side;I+am+Tech+Enthusiast+%26+Developer)](https://git.io/typing-svg)
@@ -23,6 +23,7 @@
 <img width="800" height="370" src="https://www.fullstacktechnology.com/wp-content/uploads/2020/10/web_development_2.gif" class="attachment-full size-full" alt="" loading="lazy">
 </div>
 - ⚡ Fun fact **I Think I am Funny**
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
