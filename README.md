@@ -8,16 +8,16 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=F7F7F7&background=000000F7&center=true&vCenter=true&width=435&lines=Hello!!;Vinayak+Bhushan+this+side;I+am+Tech+Enthusiast+%26+Developer)](https://git.io/typing-svg)
 
-  - 🔭 I’m currently working on [ZenChat](https://github.com/vinayak-bhushan/ZenChat)
+    🔭 I’m currently working on [ZenChat](https://github.com/vinayak-bhushan/ZenChat)
 
   <p>
     <a href="https://twitter.com/vinayak71438850" target="blank"><img src="https://img.shields.io/twitter/follow/vinayak71438850?logo=twitter&style=for-the-badge" alt="vinayak71438850" /></a>
   </p>
 
-  - 🌱 I’m currently learning **Dart, Flutter, RiverPod & Firebase**
-  - 💬 Ask me about **Flutter, Bloc, GetX, and Firebase**
-  - 📫 How to reach me **vinayakbhushan15@gmail.com**
-  - ⚡ Fun fact **I think I am funny.**
+    🌱 I’m currently learning **Dart, Flutter, RiverPod & Firebase**
+    💬 Ask me about **Flutter, Bloc, GetX, and Firebase**
+    📫 How to reach me **vinayakbhushan15@gmail.com**
+    ⚡ Fun fact **I think I am funny.**
 
   <div align="center">
     <img width="800" height="370" src="https://www.fullstacktechnology.com/wp-content/uploads/2020/10/web_development_2.gif" class="attachment-full size-full" alt="" loading="lazy">
@@ -25,10 +25,6 @@
 
   - ⚡ Fun fact **I Think I am Funny**
 </div>
-
-
-
-
 
 <div align="center">
   <img width="800" height="370" src="https://www.fullstacktechnology.com/wp-content/uploads/2020/10/web_development_2.gif" class="attachment-full size-full" alt="" loading="lazy">
@@ -38,17 +34,3 @@
 </p>
 </p>
 
-### Connect with me:
-
-<p align="left">
-  <a href="https://twitter.com/vinayak71438850" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinayak71438850" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/vinayak-bhushan-3937741a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinayak-bhushan-3937741a6" height="30" width="40" /></a>
-  <a href="https://instagram.com/vinayak._.bhushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinayak._.bhushan" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/vinayak_901" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vinayak_901" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/vinayak-bhushan-3937741a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vinayak-bhushan-3937741a6" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/vinayak_bhushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vinayak_bhushan" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/vinayakbhushanit2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vinayakbhushanit2020" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/vinayak-bhushan-3937741a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinayak-bhushan-3937741a6" height="30" width="40" /></a>
-  <a href="https://instagram.com/https://www.instagram.com/in/vinayak._.bhushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/in/vinayak._.bhushan" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/https://www.hackerrank.com/vinayakbhushan15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/vinayakbhushan15" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/https://leetcode.com/vinayak_bhushan" target="blank"><img align="center" src="https://raw.githubusercontent.com
