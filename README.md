@@ -10,27 +10,17 @@
 
     🔭 I’m currently working on [ZenChat](https://github.com/vinayak-bhushan/ZenChat)
 
-  <p>
+  <p align="left">
     <a href="https://twitter.com/vinayak71438850" target="blank"><img src="https://img.shields.io/twitter/follow/vinayak71438850?logo=twitter&style=for-the-badge" alt="vinayak71438850" /></a>
   </p>
 
-    🌱 I’m currently learning **Dart, Flutter, RiverPod & Firebase**
-    💬 Ask me about **Flutter, Bloc, GetX, and Firebase**
-    📫 How to reach me **vinayakbhushan15@gmail.com**
-    ⚡ Fun fact **I think I am funny.**
+   - 🌱 I’m currently learning **Dart, Flutter, RiverPod & Firebase**
+   - 💬 Ask me about **Flutter, Bloc, GetX, and Firebase**
+   - 📫 How to reach me **vinayakbhushan15@gmail.com**
+   - ⚡ Fun fact **I think I am funny.**
 
-  <div align="center">
-    <img width="800" height="370" src="https://www.fullstacktechnology.com/wp-content/uploads/2020/10/web_development_2.gif" class="attachment-full size-full" alt="" loading="lazy">
-  </div>
 
-  - ⚡ Fun fact **I Think I am Funny**
-</div>
 
-<div align="center">
-  <img width="800" height="370" src="https://www.fullstacktechnology.com/wp-content/uploads/2020/10/web_development_2.gif" class="attachment-full size-full" alt="" loading="lazy">
-</div>
 
-- ⚡ Fun fact **I Think I am Funny**
-</p>
-</p>
+
 
