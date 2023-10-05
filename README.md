@@ -7,17 +7,16 @@
   </p>
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=F7F7F7&background=000000F7&center=true&vCenter=true&width=435&lines=Hello!!;Vinayak+Bhushan+this+side;I+am+Tech+Enthusiast+%26+Developer)](https://git.io/typing-svg)
-
-    🔭 I’m currently working on [ZenChat](https://github.com/vinayak-bhushan/ZenChat)
-
-  <p align="left">
+  <p align="center">
     <a href="https://twitter.com/vinayak71438850" target="blank"><img src="https://img.shields.io/twitter/follow/vinayak71438850?logo=twitter&style=for-the-badge" alt="vinayak71438850" /></a>
   </p>
+</div>
 
-   - 🌱 I’m currently learning **Dart, Flutter, RiverPod & Firebase**
-   - 💬 Ask me about **Flutter, Bloc, GetX, and Firebase**
-   - 📫 How to reach me **vinayakbhushan15@gmail.com**
-   - ⚡ Fun fact **I think I am funny.**
+- 🔭 I’m currently working on [ZenChat](https://github.com/vinayak-bhushan/ZenChat)
+- 🌱 I’m currently learning **Dart, Flutter, RiverPod & Firebase**
+- 💬 Ask me about **Flutter, Bloc, GetX, and Firebase**
+- 📫 How to reach me **vinayakbhushan15@gmail.com**
+- ⚡ Fun fact **I think I am funny.**
 
 
 
